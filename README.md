@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @meLordlp 
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in math
+- 🌱 I’m currently learning python and java
 - 📫 How to reach me: 
 
 <!---
-Gay
+
 --->
